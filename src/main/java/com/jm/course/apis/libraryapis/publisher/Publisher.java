@@ -1,4 +1,4 @@
-package com.jm.course.apis.libraryapis.publisher.model;
+package com.jm.course.apis.libraryapis.publisher;
 
 public class Publisher {
 
